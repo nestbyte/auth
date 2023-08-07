@@ -1,0 +1,1 @@
+ALTER TABLE "user_credential" ALTER COLUMN "email" DROP DEFAULT;
